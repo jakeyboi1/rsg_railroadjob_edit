@@ -1,10 +1,22 @@
 # VORP train script
-- edit by outsider for VORP
+- edit of edit Outsider's edit
 - original creator Rexshack
 - onesync Ready
 # Server Game Build
 - https://docs.fivem.net/docs/server-manual/server-commands/#sv_enforcegamebuild-build
 - add to your server.cfg : sv_enforceGameBuild 1436
+
+# Jakes Edit Controls:
+THE NPC THAT DRIVES THE TRAIN HAS TO STAY THERE DO NOT THROW HIM OUT.
+These are the commands I added to control the train
+/fullspeed
+/halfspeed
+/slowspeed
+/stoptrain
+/reverse
+/reversemax
+
+
 
 # Description
 - become a part of the railroad as a conductor
