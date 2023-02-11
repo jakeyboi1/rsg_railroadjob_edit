@@ -14,7 +14,7 @@ These are the commands I added to control the train
 /slowspeed
 /stoptrain
 /reverse
-/reversemax
+I do not know how the rest of this code works all i did was add commands so i will not be supporting this sorry.
 
 
 
